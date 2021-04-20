@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  // the @typescript-eslint parser requires that all linted files be listed here
+  "include": ["src/**/*", "pages/**/*", "*.js", "*.ts", ".eslintrc.js"]
+}
